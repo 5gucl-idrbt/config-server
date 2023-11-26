@@ -1,0 +1,4 @@
+// config.json
+{
+  "backendUrl": "http://your-backend-url.com"
+}
