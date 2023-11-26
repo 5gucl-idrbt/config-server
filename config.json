@@ -1,4 +1,5 @@
 // config.json
 {
-  "backendUrl": "http:192.1681.138.135:9092"
+  "loginServiceUrl": "http://192.168.138.135:9902/api/login",
+  "accountServiceUrl": "http://192.168.138.135:9901/api/accounts"
 }
