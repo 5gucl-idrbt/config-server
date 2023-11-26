@@ -1,4 +1,4 @@
 // config.json
 {
-  "backendUrl": "http://your-backend-url.com"
+  "backendUrl": "http:192.1681.138.135:9092"
 }
