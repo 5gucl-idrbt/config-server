@@ -1,4 +1,4 @@
 {
-  "loginServiceUrl": "http://192.168.138.156:9902/api/login",
-  "accountServiceUrl": "http://192.168.138.156:9901/api/accounts"
+  "loginServiceUrl": "http://192.168.1.144:9902/api/login",
+  "accountServiceUrl": "http://192.168.1.144:9901/api/accounts"
 }
